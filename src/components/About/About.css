@@ -1,0 +1,18 @@
+.about-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.my-image {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+.about-text {
+    font-size: 1.2rem;
+    line-height: 1.6;
+}

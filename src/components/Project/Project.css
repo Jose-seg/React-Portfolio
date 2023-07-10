@@ -1,0 +1,8 @@
+/* Project.css */
+
+.project-card {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+}

@@ -16,6 +16,13 @@ function App() {
         deployedUrl: 'https://the-passion-of-the-greens.github.io/The-Passion-Of-The-Greens/',
         githubUrl: 'https://github.com/The-Passion-of-the-Greens/The-Passion-Of-The-Greens'
       },
+      {
+        id: 2,
+        title: 'Resume-pocalypse',
+        image: '',
+        deployedUrl: 'https://resume-pocalypse.herokuapp.com/',
+        githubUrl: 'https://github.com/wasteland-career-solutions/resume-pocalypse'
+      }
       
     ]);
 

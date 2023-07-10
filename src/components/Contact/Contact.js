@@ -5,6 +5,8 @@ function Contact() {
     return (
         <section>
             <h2>Contact Me</h2>
+            <p>Email: josesegura535@gmail.com</p>
+            <p> Phone: (234)-354-4560</p>
             <form>
                 <div>
                     <label htmlFor="name">Name:</label>

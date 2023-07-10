@@ -2,7 +2,7 @@ import React from 'react';
 import './Navigation.css';
 
 function Navigation({ currentSection, setCurrentSection }) {
-    const sections = ['About Me', 'Portfolio', 'Contact', 'Resume'];
+    const sections = ['About', 'Portfolio', 'Contact'];
 
     return (
         <nav>

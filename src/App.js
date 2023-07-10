@@ -4,16 +4,21 @@ import About from './components/About/About';
 import Portfolio from './components/Portfolio/Portfolio';
 import Contact from './components/Contact/Contact';
 import Footer from './components/Footer/Footer';
-import Project from './components/Project/Project'
 
-const projects = [
-    // Add your projects here
-    // { id: 1, title: 'Project 1', image: 'url', deployedUrl: 'url', githubUrl: 'url' },
-    // ...
-];
 
 function App() {
     const [currentSection, setCurrentSection] = useState('About');
+    const [projects, setProjects] = useState([
+      {
+        id: 1,
+        title: 'Passion of The Greens',
+        image: '',
+        deployedUrl: 'https://the-passion-of-the-greens.github.io/The-Passion-Of-The-Greens/',
+        githubUrl: 'https://github.com/The-Passion-of-the-Greens/The-Passion-Of-The-Greens'
+      },
+      
+    ]);
+
 
     return (
         <div>

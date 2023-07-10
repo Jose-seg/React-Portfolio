@@ -2,16 +2,18 @@ import React from 'react';
 import Project from '../Project/Project';
 import './Portfolio.css'
 
+import projectImage1 from '../../assests/passion greens.png';
+
 function Portfolio({ projects }) {
     return (
         <div>
             <h2>Portfolio</h2>
             <div className="project-grid">
-                {projects.map(project => (
+                {projects.map((project, index) => (
                     <Project 
-                        key={project.id}
+                        key={index}
                         title={project.title}
-                        image={project.image}
+                        image={index === 0 ? projectImage1 : project.image}
                         deployedUrl={project.deployedUrl}
                         githubUrl={project.githubUrl}
                     />
@@ -22,3 +24,6 @@ function Portfolio({ projects }) {
 }
 
 export default Portfolio;
+
+
+

@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.253f89bc.css",
+    "main.js": "/React-Portfolio/static/js/main.6dfcd648.js",
+    "static/media/passion greens.png": "/React-Portfolio/static/media/passion greens.4fd48cfd9c9760b29078.png",
+    "static/media/hey-me.jpg": "/React-Portfolio/static/media/hey-me.4473c2be548fdb91040c.jpg",
+    "static/media/ResumePocalypseScreenshot.jpg": "/React-Portfolio/static/media/ResumePocalypseScreenshot.78f977f50177060390cf.jpg",
+    "index.html": "/React-Portfolio/index.html",
+    "main.253f89bc.css.map": "/React-Portfolio/static/css/main.253f89bc.css.map",
+    "main.6dfcd648.js.map": "/React-Portfolio/static/js/main.6dfcd648.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.253f89bc.css",
+    "static/js/main.6dfcd648.js"
+  ]
+}

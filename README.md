@@ -16,6 +16,7 @@ capable of.
 ![image](https://github.com/Jose-seg/React-Portfolio/assets/122575280/739d1eb5-b44a-4f29-a1e4-eb8db370b558)
 
 ## Deployed URL
+https://Jose-seg.github.io/React-Portfolio
 
 
 ## GitHub Repo
